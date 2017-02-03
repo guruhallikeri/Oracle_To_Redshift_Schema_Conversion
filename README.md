@@ -1,6 +1,5 @@
 # Oracle_To_Redshift_Schema_Conversion
-This .SQL script will convert the DDLs of oracle schema to Redshift
-Even though there are multiple tools available out there for convertion, this will be option for POC or Test environments;
+This .SQL script will convert the DDLs of oracle schema to Redshift. Even though there are multiple tools available out there for convertion, this will be option for POC or Test environments;
 
 #Steps to execute
 1. Replace the {Schema Name} with your Oracle schema
